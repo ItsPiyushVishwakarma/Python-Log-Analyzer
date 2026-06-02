@@ -1,0 +1,5 @@
+INFO User login successful
+ERROR Failed login attepmt
+INFO User logout
+ERROR Failed login attepmt
+WARNING Multiple login attepmts detected
